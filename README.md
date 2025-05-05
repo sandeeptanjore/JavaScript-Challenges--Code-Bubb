@@ -1,7 +1,8 @@
 # JavaScript-Challenges--Code-Bubb
 A code repo for JavaScript challenges by James Bubb. I created this repository that contains all source code against the challenges present in Ultimate Collection of JavaScript Exercises book published by JavaScript YouTuber James Bubb (https://www.juniordevelopercentral.com/)
 
-The entire coding challenges are divided in the following order:
+**The entire coding challenges are divided in the following order:**
+
 a) 01-Language Basics ==> from exercise 1 to exercise 116
 
 b) 02-Intermediate Exercises ==> from exercise 117 to 202
@@ -13,3 +14,5 @@ d) 04-Array Method Exercises ==> from exercise 241 to 301
 e) 05-DOM Exercises ==> from exercise 301 to 316
 
 f) 06-Scenario Based Exercises ==> from exercise 317 to 329
+
+![300082852-a4a4d662-5bf1-4da1-ba3f-76e3869f4537 (1)](https://github.com/user-attachments/assets/cca70873-ea1f-454d-9a22-9d63e5c4d8e1)
