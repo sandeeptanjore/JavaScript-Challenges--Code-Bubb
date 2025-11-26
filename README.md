@@ -1,18 +1,50 @@
-# JavaScript-Challenges--Code-Bubb
-A code repo for JavaScript challenges by James Bubb. I created this repository that contains all source code against the challenges present in Ultimate Collection of JavaScript Exercises book published by JavaScript YouTuber James Bubb (https://www.juniordevelopercentral.com/)
+# JavaScript Exercise Journey: 329 Challenges
 
-**The entire coding challenges are divided in the following order:**
+A comprehensive collection of my solutions to James Bubb's "Ultimate Collection of JavaScript Exercises." This repository documents my systematic progression through fundamental to advanced JavaScript concepts.
 
-a) 01-Language Basics ==> from exercise 1 to exercise 116
+## 📚 Exercise Structure & Progress
 
-b) 02-Intermediate Exercises ==> from exercise 117 to 202
+### **01. Language Basics** (Exercises #001 - #116)
 
-c) 03-Advanced Exercises ==> from exercise 203 to 240
+#### ✅ **Console Exercises** (7/7 Complete)
+- Exercise 01 - Say 'Hello'
+- Exercise 02 - Who are you?
+- Exercise 03 - What day is it?
+- Exercise 04 - Where am I?
+- Exercise 05 - Simple calculator
+- Exercise 06 - Warn the user
+- Exercise 07 - Red alert!
 
-d) 04-Array Method Exercises ==> from exercise 241 to 301
+#### ✅ **Variable Exercises** (10/10 Complete)
+- Exercise 08 - Your name
+- Exercise 09 - Your age
+- Exercise 10 - A simple sum
+- Exercise 11 - A slice of PI
+- Exercise 12 - Re-assigning values
+- Exercise 13 - One year older
+- Exercise 14 - One less slice
+- Exercise 15 - A small withdrawal
+- Exercise 16 - A significant deposit
+- Exercise 17 - Give me your name, your full name
 
-e) 05-DOM Exercises ==> from exercise 301 to 316
+#### 🔄 **Upcoming Chapters**
+- String Exercises
+- Number Exercises
+- Boolean Exercises
+- And more...
 
-f) 06-Scenario Based Exercises ==> from exercise 317 to 329
+## 🚀 Current Progress
+**Overall:** 17/329 Exercises Completed (5%)
+
+## 🛠 Technologies Used
+- JavaScript (ES6+)
+- HTML/CSS (for DOM exercises)
+- Git & GitHub
+
+## 📖 About the Source
+Exercises from [Junior Developer Central](https://www.juniordevelopercentral.com/) by James Bubb.
+
+## 🎯 My Goal
+To complete all 329 exercises through consistent daily practice.
 
 ![300082852-a4a4d662-5bf1-4da1-ba3f-76e3869f4537 (1)](https://github.com/user-attachments/assets/cca70873-ea1f-454d-9a22-9d63e5c4d8e1)
