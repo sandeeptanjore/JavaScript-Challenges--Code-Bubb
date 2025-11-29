@@ -1,3 +1,5 @@
+Perfect! Here's your updated README.md with the String exercises completed:
+
 # JavaScript Exercise Journey: 329 Challenges
 
 A comprehensive collection of my solutions to James Bubb's "Ultimate Collection of JavaScript Exercises." This repository documents my systematic progression through fundamental to advanced JavaScript concepts.
@@ -27,14 +29,26 @@ A comprehensive collection of my solutions to James Bubb's "Ultimate Collection 
 - Exercise 16 - A significant deposit
 - Exercise 17 - Give me your name, your full name
 
+#### ✅ **String Exercises** (11/11 Complete)
+- Exercise 18 - How long is a piece of string?
+- Exercise 19 - Hello to the world
+- Exercise 20 - First 3 characters
+- Exercise 21 - Does this string have class?
+- Exercise 22 - Where do you stop?
+- Exercise 23 - A game of two halves
+- Exercise 24 - Remove the spaces
+- Exercise 25 - To upper case
+- Exercise 26 - To lower case
+- Exercise 27 - To sentence case
+- Exercise 28 - The first and last
+
 #### 🔄 **Upcoming Chapters**
-- String Exercises
 - Number Exercises
 - Boolean Exercises
 - And more...
 
 ## 🚀 Current Progress
-**Overall:** 17/329 Exercises Completed (5%)
+**Overall:** 28/329 Exercises Completed (9%)
 
 ## 🛠 Technologies Used
 - JavaScript (ES6+)
@@ -46,5 +60,7 @@ Exercises from [Junior Developer Central](https://www.juniordevelopercentral.com
 
 ## 🎯 My Goal
 To complete all 329 exercises through consistent daily practice.
+
+---
 
 ![300082852-a4a4d662-5bf1-4da1-ba3f-76e3869f4537 (1)](https://github.com/user-attachments/assets/cca70873-ea1f-454d-9a22-9d63e5c4d8e1)
