@@ -40,13 +40,28 @@ A comprehensive collection of my solutions to James Bubb's "Ultimate Collection 
 - Exercise 27 - To sentence case
 - Exercise 28 - The first and last
 
+#### ✅ **Number Exercises** (13/13 Complete)
+- Exercise 29 - Add this to this
+- Exercise 30 - Subtract this from this
+- Exercise 31 - Multiply this with this
+- Exercise 32 - Divide this by this
+- Exercise 33 - Fix this
+- Exercise 34 - Strings and numbers don't match
+- Exercise 35 - Round 'em up
+- Exercise 36 - Round 'em down
+- Exercise 37 - Round 'em down again
+- Exercise 38 - Which is the biggest?
+- Exercise 39 - Which is the smallest?
+- Exercise 40 - No dice
+- Exercise 41 - 1 to 100
+
 #### 🔄 **Upcoming Chapters**
-- Number Exercises
 - Boolean Exercises
+- Array Exercises
 - And more...
 
 ## 🚀 Current Progress
-**Overall:** 28/329 Exercises Completed (9%)
+**Overall:** 41/329 Exercises Completed (12%)
 
 ## 🛠 Technologies Used
 - JavaScript (ES6+)
@@ -58,7 +73,6 @@ Exercises from [Junior Developer Central](https://www.juniordevelopercentral.com
 
 ## 🎯 My Goal
 To complete all 329 exercises through consistent daily practice.
-
 ---
 
 ![300082852-a4a4d662-5bf1-4da1-ba3f-76e3869f4537 (1)](https://github.com/user-attachments/assets/cca70873-ea1f-454d-9a22-9d63e5c4d8e1)
