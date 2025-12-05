@@ -59,13 +59,20 @@ A comprehensive collection of my solutions to James Bubb's "Ultimate Collection 
 - Exercise 42 - Say it's true
 - Exercise 43 - Say it isn't true
 
+#### ✅ **Template Literal Exercises** (5/5 Complete)
+- Exercise 44 - Change this string
+- Exercise 45 - Change another string
+- Exercise 46 - Multi-line strings
+- Exercise 47 - Variable interpolation 1
+- Exercise 48 - Variable interpolation 2
+
 #### 🔄 **Upcoming Chapters**
 - Array Exercises
 - Object Exercises
 - And more...
 
 ## 🚀 Current Progress
-**Overall:** 43/329 Exercises Completed (13%)
+**Overall:** 48/329 Exercises Completed (15%)
 
 ## 🛠 Technologies Used
 - JavaScript (ES6+)
