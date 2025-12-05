@@ -55,13 +55,17 @@ A comprehensive collection of my solutions to James Bubb's "Ultimate Collection 
 - Exercise 40 - No dice
 - Exercise 41 - 1 to 100
 
+#### ✅ **Boolean Exercises** (2/2 Complete)
+- Exercise 42 - Say it's true
+- Exercise 43 - Say it isn't true
+
 #### 🔄 **Upcoming Chapters**
-- Boolean Exercises
 - Array Exercises
+- Object Exercises
 - And more...
 
 ## 🚀 Current Progress
-**Overall:** 41/329 Exercises Completed (12%)
+**Overall:** 43/329 Exercises Completed (13%)
 
 ## 🛠 Technologies Used
 - JavaScript (ES6+)
