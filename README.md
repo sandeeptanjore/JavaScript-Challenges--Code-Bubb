@@ -66,13 +66,25 @@ A comprehensive collection of my solutions to James Bubb's "Ultimate Collection 
 - Exercise 47 - Variable interpolation 1
 - Exercise 48 - Variable interpolation 2
 
+#### ✅ **Simple Array Exercises** (10/10 Complete)
+- Exercise 49 - How long is this list?
+- Exercise 50 - What about this list?
+- Exercise 51 - The first and last items
+- Exercise 52 - The third item
+- Exercise 53 - Better way to get the last item
+- Exercise 54 - Create your own array
+- Exercise 55 - Remove an item
+- Exercise 56 - Remove another item
+- Exercise 57 - Add an item
+- Exercise 58 - Add an item at the start
+
 #### 🔄 **Upcoming Chapters**
-- Array Exercises
+- More Array Exercises
 - Object Exercises
 - And more...
 
 ## 🚀 Current Progress
-**Overall:** 48/329 Exercises Completed (15%)
+**Overall:** 58/329 Exercises Completed (18%)
 
 ## 🛠 Technologies Used
 - JavaScript (ES6+)
