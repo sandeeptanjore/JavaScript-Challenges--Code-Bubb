@@ -78,13 +78,20 @@ A comprehensive collection of my solutions to James Bubb's "Ultimate Collection 
 - Exercise 57 - Add an item
 - Exercise 58 - Add an item at the start
 
+#### ✅ **Simple Object Exercises** (5/5 Complete)
+- Exercise 59 - How many languages do you speak?
+- Exercise 60 - Where's the role?
+- Exercise 61 - Change the name
+- Exercise 62 - Make an object
+- Exercise 63 - Make another object
+
 #### 🔄 **Upcoming Chapters**
 - More Array Exercises
-- Object Exercises
+- More Object Exercises
 - And more...
 
 ## 🚀 Current Progress
-**Overall:** 58/329 Exercises Completed (18%)
+**Overall:** 63/329 Exercises Completed (19%)
 
 ## 🛠 Technologies Used
 - JavaScript (ES6+)
@@ -96,6 +103,3 @@ Exercises from [Junior Developer Central](https://www.juniordevelopercentral.com
 
 ## 🎯 My Goal
 To complete all 329 exercises through consistent daily practice.
----
-
-![300082852-a4a4d662-5bf1-4da1-ba3f-76e3869f4537 (1)](https://github.com/user-attachments/assets/cca70873-ea1f-454d-9a22-9d63e5c4d8e1)
