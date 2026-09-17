@@ -103,7 +103,7 @@ A comprehensive collection of my solutions to James Bubb's "Ultimate Collection 
 - Exercise 69 - You need to know at least 3 languages
 - Exercise 70 - You need to know exactly 4 languages
 
-#### 🔄 **Next: if Statement Exercises** (Exercises #71 - #76)
+#### ✅ **if Statement Exercises** (6/6 Complete)
 
 - Exercise 71 - If you have enough money
 - Exercise 72 - If you are an admin
@@ -112,15 +112,19 @@ A comprehensive collection of my solutions to James Bubb's "Ultimate Collection 
 - Exercise 75 - If not...
 - Exercise 76 - Grading
 
+#### 🔄 **Next Exercises**
+
+- Exercise 77 onwards
+
 ## 🚀 Current Progress
 
-**Overall:** 70/329 Exercises Completed (21.3%)
+**Overall:** 76/329 Exercises Completed (23.1%)
 
-**Language Basics:** 70/116 Exercises Completed (60.3%)
+**Language Basics:** 76/116 Exercises Completed (65.5%)
 
-**Current Position:** Completed Boolean Expression & Logical Operator Exercises
+**Current Position:** Completed if Statement Exercises
 
-**Next Exercise:** Exercise 71 - If you have enough money
+**Next Exercise:** Exercise 77
 
 ## 🛠 Technologies Used
 
